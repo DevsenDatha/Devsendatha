@@ -1,13 +1,11 @@
-### 👋 **Hello world!** 
-<div>
-  <img src="https://raw.githubusercontent.com/artlaman/chalice-icon-theme/master/assets/harold.jpg" width=50%>
-</div>
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/DevsenDatha)
+[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/DevsenDatha) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Devsendatha/) 
+![Visits Badge](https://badges.pufler.dev/visits/Devsendatha/Devsendatha?style=for-the-badge ) 
 
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Devsendatha) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Devsendatha/) [<img src ="https://img.shields.io/badge/Portfolio-up-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]() ![Visits Badge]( ) 
 
-- 🏢 Software Engineer [@Vuedata](https://www.vuedata.com/), in Chennai, India
-- 🧰 I build with: `Python`, `JavaScript`, `Django`, `VSCode`, `Linux` ...
-- ✏ Currently learning all things MachineLearning, Data-science and AI
+
+- 🏢 Freelancer Software Engineer  in Vijaywada IN
+- 🧰 I build with: `Python`, `Anaconda`, `Django`, `VSCode`, `Linux` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: devsendatha@gmail.com
-- 💼 Here's a copy of my [resume](), or explore my [portfolio]()
+- 📫 Reach out to me: DevsenDatha@gmail.com
