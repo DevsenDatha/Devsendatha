@@ -1,4 +1,4 @@
-#NAMASTE WELCOME TO MY PROFILE
+# Namaste! Welcome to Devsen Datha's profile.
 
 - 🏢 Freelancer Software Engineer  in Vijaywada IN
 - 🧰 I build with: `Python`, `Anaconda`, `Django`, `VSCode`, `Linux` ...
