@@ -19,4 +19,4 @@
 
 
 
-![Devsen's github stats](https://github-readme-stats.vercel.app/api?username=Devsendatha&show_icons=true&theme=dark)
+[![Devsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devsendatha&theme=xcode)](https://git.io/Devsendatha)
