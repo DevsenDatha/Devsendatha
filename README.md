@@ -15,3 +15,5 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: DevsenDatham@gmail.com
 - 💻 Portfolio: https://devsendatham.com/
+
+![Devsen's github stats](https://github-readme-stats.vercel.app/api?username=Devsendatha&show_icons=true&theme=dark)
