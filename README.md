@@ -9,3 +9,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
    
+**Talking about Personal Stuffs:**
+
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: DevsenDatham@gmail.com
+- 💻 Portfolio: https://devsendatham.com/
