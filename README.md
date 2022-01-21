@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: DevsenDatham@gmail.com
-- 💻 Portfolio: https://devsendatham.com/
-<br>
-</br>
+- 💻 Portfolio: https://devsendatham.com/ <br>
+
 [![Devsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devsendatha&theme=xcode)](https://git.io/Devsendatha)
