@@ -16,6 +16,6 @@
 - 📫 How to reach me: DevsenDatham@gmail.com
 - 💻 Portfolio: https://devsendatham.com/ <br>
 
-&nbsp &nbsp &nbsp &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 [![Devsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devsendatha&theme=xcode)](https://git.io/Devsendatha)
