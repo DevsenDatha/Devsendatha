@@ -11,11 +11,7 @@
    
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently Learning Machine Learning and Cloud
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: DevsenDatham@gmail.com
-- 💻 Portfolio: https://devsendatham.com/ <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-[![Devsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Devsendatha&theme=xcode)](https://git.io/Devsendatha)
+- 💻 Portfolio: https://devsendatham.com/
