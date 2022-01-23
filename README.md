@@ -14,13 +14,6 @@
 
 #### Reach me at [LinkedIn](www.linkedin.com/in/devsendatha/)
 
-![Dev's Repository Stats](https://github-readme-stats.vercel.app/api?username=Devsendatha&show_icons=true)![Dev's Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsendatha&theme=blue-green)
+![Dev's Repository Stats](https://github-readme-stats.vercel.app/api?username=Devsendatha&show_icons=true)
 
-## 3. Contributors Badge
-![Dev's Repository Stats](https://contrib.rocks/image?repo=Devsendatha/Python)
-## 4. Random Joke Generator
 ![Dev's Repository Stats](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Devsendatha)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Devsendatha/Python)
