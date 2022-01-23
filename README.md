@@ -8,3 +8,8 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: DevsenDatham@gmail.com
 - 💻 Portfolio: https://devsendatham.com/
+- 🏢 Freelancer Software Engineer  in Vijaywada IN
+- 🧰 I build with: `Python`, `Anaconda`, `Aws`, `VSCode`, `Unix` ...
+- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+
+#### Reach me at [LinkedIn](www.linkedin.com/in/devsendatha/)
