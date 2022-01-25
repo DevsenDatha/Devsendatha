@@ -14,6 +14,6 @@
 
 #### Reach me at [LinkedIn](www.linkedin.com/in/devsendatha/)
 
-![](https://github.com/Devsendatha/github-stats/blob/master/generated/overview.svg)
+![Dev's Repo stats](https://github.com/Devsendatha/github-stats/blob/master/generated/overview.svg)
 
 ![Dev's Repository Stats](https://readme-jokes.vercel.app/api)
