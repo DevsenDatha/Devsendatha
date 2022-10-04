@@ -12,5 +12,5 @@
 - 🧰 I build with: `Python`, `Anaconda`, `Aws`, `VSCode`, `Unix` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 
-#### Reach me at [LinkedIn](www.linkedin.com/in/devsendatha/)
+#### Reach me at [LinkedIn](www.linkedin.com/in/devsendatha)
 
