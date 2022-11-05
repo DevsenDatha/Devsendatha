@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: DevsenDatham@gmail.com
 - 💻 Portfolio: https://devsendatham.com/
-- 🏢 Freelancer Software Engineer  in Vijaywada IN
+- 🎓 Masters in computer science student  in Chicago, IL
 - 🧰 I build with: `Python`, `Anaconda`, `Aws`, `VSCode`, `Unix` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 
