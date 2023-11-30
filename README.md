@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Learning Machine Learning and Cloud
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: DevsenDatham@gmail.com
+- 📫 How to reach me: devsendatham@gmail.com
 - 💻 Portfolio: [devsendatham.com](https://devsendatham.com/)
 - 🎓 Masters in computer science student in Chicago, IL
 - 🧰 I build with: `Python`, `Anaconda`, `Aws`, `VSCode`, `Unix` ...
@@ -85,7 +85,7 @@ Results Driven computer science master’s student with professional work experi
 
 ## Connect with Me
 
-Let's connect and explore opportunities together! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/devsendatha).
+Let's connect and explore opportunities together! Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/devsendathamukkamala).
 
 ---
 
